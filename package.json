@@ -2,7 +2,7 @@
     "name": "killua-baileys",
     "type": "module",
     "version": "2.0.0",
-    "description": "WhatsApp API Modification By ranstech",
+    "description": "A modern, fast and feature-rich WhatsApp Web API library based on Baileys",
     "keywords": [
     "whatsapp",
     "baileys",

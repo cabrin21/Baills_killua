@@ -14,7 +14,7 @@
         "url": "https://github.com/cabrin21/Baills_killua"
     },
     "license": "MIT",
-    "author": "ranstech",
+    "author": "killua",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
